@@ -1,0 +1,174 @@
+```
+ ████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗
+ ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║
+    ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║
+    ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║
+    ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
+    ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+
+ ███╗   ███╗██╗   ██╗████████╗██╗  ██╗
+ ████╗ ████║╚██╗ ██╔╝╚══██╔══╝██║  ██║
+ ██╔████╔██║ ╚████╔╝    ██║   ███████║
+ ██║╚██╔╝██║  ╚██╔╝     ██║   ██╔══██║
+ ██║ ╚═╝ ██║   ██║      ██║   ██║  ██║
+ ╚═╝     ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
+```
+
+> *"We don't ship features. We ship legends."*
+
+---
+
+## ⚡ gm, anon.
+
+You've stumbled into **Terminal Myth** — where the code is dirty, the commits are unhinged, and the only thing we touch grass for is debugging production at 3am.
+
+This ain't your corpo bootcamp GitHub repo.  
+This is the **war room**.
+
+---
+
+## 🧬 what is this place
+
+```bash
+$ whoami
+> degen. builder. myth-maker.
+
+$ pwd
+> /somewhere/between/genius/and/unhinged
+
+$ ls -la
+> ideas/          (too many)
+> shipped/        (more than you'd expect)
+> sleep/          (folder not found)
+> excuses/        (empty)
+```
+
+Terminal Myth is a **digital forge** — built by builders, for builders. We live in the terminal, breathe in commits, and think in systems. Every project here started as a 2am idea that refused to die.
+
+---
+
+## 🔥 the vibe
+
+| thing          | status                        |
+|----------------|-------------------------------|
+| coffee         | ☕☕☕ critical levels          |
+| tabs open      | 47 and climbing               |
+| bugs           | they're features now          |
+| documentation  | you're reading it             |
+| sleep schedule | a myth (fitting)              |
+| shipping       | always                        |
+| giving up      | not installed                 |
+
+---
+
+## 🛠️ stack of choice
+
+```
+Languages    →  TypeScript, Python, Rust (when we're feeling dangerous)
+Frontend     →  Next.js, React, Tailwind (no, we don't use vanilla CSS. yes we judge you)
+Backend      →  Node, FastAPI, whatever gets the job done at 3am
+AI/ML        →  OpenAI, Anthropic, Replicate (we talk to robots for a living)
+Web3         →  Solana, Ethereum, onchain everything
+DB           →  Supabase, Postgres, Redis (sometimes just localStorage if we're cooked)
+Deploy       →  Vercel, Railway, vibes
+```
+
+---
+
+## 📜 the commandments
+
+```
+I.    ship fast or go home
+II.   perfect is the enemy of deployed
+III.  if it works on prod, it works
+IV.   comments are for the weak* (*or when you'll forget in 6hrs)
+V.    the best refactor is a rewrite
+VI.   your tech debt is someone else's problem (that someone is future you)
+VII.  we don't gatekeep. we open source.
+VIII. gm is a lifestyle, not a greeting
+IX.   the README is sacred
+X.    we build what we wish existed
+```
+
+---
+
+## 🚀 getting started
+
+```bash
+# clone the myth
+git clone https://github.com/terminalmyth/whatever-this-is
+
+# install the chaos
+npm install
+
+# pray to the runtime gods
+npm run dev
+
+# if it breaks
+npm run dev --force  # doesn't do anything different but feels powerful
+```
+
+---
+
+## 🌑 who builds here
+
+Degens who got tired of waiting for someone else to build it.  
+Coders who merge first and ask questions later.  
+Builders who treat every side project like a startup.  
+People who have more `.env` files than friends.  
+
+If your GitHub contribution graph looks like a city skyline —  
+**you're home.**
+
+---
+
+## 🤝 contributing
+
+```bash
+# the process
+1. fork it
+2. build something unhinged
+3. open a PR with a based title
+4. we'll review it (probably at midnight)
+5. if it slaps, it ships
+```
+
+No gatekeeping. No ego. Just good code and bad sleep.
+
+---
+
+## 📡 find us in the ether
+
+```
+twitter/x   →  @terminalmyth
+discord     →  link in bio
+github      →  you're already here anon
+```
+
+---
+
+## ⚰️ final words
+
+Most people have ideas.  
+Few people build them.  
+Even fewer ship them.  
+
+**We ship them.**
+
+```bash
+$ git add .
+$ git commit -m "another myth, another banger"
+$ git push origin main
+
+> legend pushed to production.
+```
+
+---
+
+<div align="center">
+
+**built different. shipped relentlessly. Terminal Myth.**
+
+*est. whenever the first commit dropped*
+
+</div>
