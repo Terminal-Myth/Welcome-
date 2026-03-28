@@ -16,7 +16,6 @@
 
 > *"We don't ship features. We ship legends."*
 
----
 
 ## ⚡ gm, anon.
 
@@ -25,7 +24,6 @@ You've stumbled into **Terminal Myth** — where the code is dirty, the commits 
 This ain't your corpo bootcamp GitHub repo.  
 This is the **war room**.
 
----
 
 ## 🧬 what is this place
 
@@ -45,7 +43,6 @@ $ ls -la
 
 Terminal Myth is a **digital forge** — built by builders, for builders. We live in the terminal, breathe in commits, and think in systems. Every project here started as a 2am idea that refused to die.
 
----
 
 ## 🔥 the vibe
 
@@ -59,7 +56,6 @@ Terminal Myth is a **digital forge** — built by builders, for builders. We liv
 | shipping       | always                        |
 | giving up      | not installed                 |
 
----
 
 ## 🛠️ stack of choice
 
@@ -73,7 +69,6 @@ DB           →  Supabase, Postgres, Redis (sometimes just localStorage if we'r
 Deploy       →  Vercel, Railway, vibes
 ```
 
----
 
 ## 📜 the commandments
 
@@ -90,25 +85,6 @@ IX.   the README is sacred
 X.    we build what we wish existed
 ```
 
----
-
-## 🚀 getting started
-
-```bash
-# clone the myth
-git clone https://github.com/terminalmyth/whatever-this-is
-
-# install the chaos
-npm install
-
-# pray to the runtime gods
-npm run dev
-
-# if it breaks
-npm run dev --force  # doesn't do anything different but feels powerful
-```
-
----
 
 ## 🌑 who builds here
 
@@ -120,7 +96,6 @@ People who have more `.env` files than friends.
 If your GitHub contribution graph looks like a city skyline —  
 **you're home.**
 
----
 
 ## 🤝 contributing
 
@@ -135,7 +110,6 @@ If your GitHub contribution graph looks like a city skyline —
 
 No gatekeeping. No ego. Just good code and bad sleep.
 
----
 
 ## 📡 find us in the ether
 
@@ -145,7 +119,6 @@ discord     →  link in bio
 github      →  you're already here anon
 ```
 
----
 
 ## ⚰️ final words
 
@@ -163,7 +136,6 @@ $ git push origin main
 > legend pushed to production.
 ```
 
----
 
 <div align="center">
 
